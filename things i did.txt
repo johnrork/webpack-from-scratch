@@ -1,0 +1,16 @@
+npm install --save-dev vue
+npm install --save-dev webpack-cli
+npm install --save-dev vue-loader
+touch src/index.js
+npm install --save-dev babel-loader
+npm install --save-dev @babel/core
+npm install --save-dev vue-template-compiler
+
+(Squiggled-out lines turned out to be unneeded)
+npm install --save-dev jest
+~~~npm install --save-dev jest-vue-preprocessor~~~
+npm install --save-dev vue-jest
+npm install --save-dev babel-preset-env
+npm install --save-dev vue-template-compiler
+~~~npm install vue-template-es2015-compiler@1.6.x~~~
+npm install --save-dev css-loader
